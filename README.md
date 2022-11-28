@@ -6,9 +6,9 @@
 
 
 
-- 👀 Tôi thích chi các trò chơi điện tử <img height="20px" src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true">
-  - Liên minh huyền thoại (League of legends)
-  - Liên minh huyền thoại: tốc chiến (Wild rift)
+- 👀 Tôi thích những thứ làm tôi thoải mái <img height="20px" src="https://raw.githubusercontent.com//dieenx/dieenx/main/README/catcode.gif?raw=true">
+  - đi dạo (Đà Nẵng)
+  - đi la cà quán xá 
 - 📫 Các bạn có thể liên hệ và ủng hộ với Trung qua
 
 
@@ -22,6 +22,6 @@
   <a href="https://www.youtube.com/@camtavietnam">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/youtube.svg">
   </a>
-    <a href="https://t.me/ok">
+    <a href="https://t.me/tongxuantrung">
     <img height="64px" src="https://raw.githubusercontent.com/dieenx/dieenx/main/icons/telegram-app.svg">
   </a>
