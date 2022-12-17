@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 <h2 align="center">Hi! mình là Trung đây</h2>
 
 > Tôi tên là: Tống Xuân Trung <br>
